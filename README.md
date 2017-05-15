@@ -13,7 +13,7 @@ De website is enigszins te vergelijken met https://Flashing-Heiloo.nl, maar dit 
 #### Milestones Fase 1
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
-| Readme                         | To Do |  [readme.md]            | *MarkDown op github |
+| Readme                         | Done  |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | To Do | [Debriefing]            | Google Doc Comment enabled |
 | b1-k1-w1 bepaling uitgangspunt | To Do | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w2 Urenschatting         | To Do | [doc/1/urenschatting.md]| *Markdown |
