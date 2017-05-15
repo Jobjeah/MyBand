@@ -18,7 +18,7 @@ De website is enigszins te vergelijken met https://Flashing-Heiloo.nl, maar dit 
 | b1-k1-w1 bepaling uitgangspunt | To Do | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w2 Urenschatting         | To Do | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | To Do | [doc/1/planning.md]     | *Markdown |
-| b1-k1-w2 Plan van aanpak       | To Do | [doc/1/PvA.rtf]         | Rich Text Format |
+| b1-k1-w2 Plan van aanpak       | Done  | [doc/1/Plan van aanpak.docx]        | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | To Do | [doc/1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | To Do | [FO]                    | MarkDown op github |
 | b1-k1-w2 FlowChart             | To Do | [Flow]                  | SVG exported by Draw.io |
@@ -27,7 +27,7 @@ De website is enigszins te vergelijken met https://Flashing-Heiloo.nl, maar dit 
    [readme.md]: 
    [Leidraad_uitgangspunt.md]: 
    [Debriefing]: 
-   [doc/1/Plan van aanpak.docx]: 
+   [doc/1/Plan van aanpak.docx]: https://github.com/Jobjeah/MyBand/blob/master/doc/1/Plan%20van%20aanpak.docx
    [doc/1/urenschatting.md]: 
    [doc/1/planning.md]: 
    [doc/1/moodboard]: 
