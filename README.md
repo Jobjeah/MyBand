@@ -27,7 +27,7 @@ De website is enigszins te vergelijken met https://Flashing-Heiloo.nl, maar dit 
    [readme.md]: 
    [Leidraad_uitgangspunt.md]: 
    [Debriefing]: 
-   [doc/1/Plan van aanpak.docx]: https://github.com/Jobjeah/MyBand/blob/master/doc/1/Plan%20van%20aanpak.docx
+   [doc/1/Plan van aanpak.docx]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Plan%20van%20aanpak.docx>
    [doc/1/urenschatting.md]: 
    [doc/1/planning.md]: 
    [doc/1/moodboard]: 
