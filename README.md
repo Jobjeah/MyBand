@@ -1,7 +1,7 @@
 ## Job Groen
-www.jobgroen.nl is een website van Job Groen waar gebruikers nieuws, speelschema's en wedstrijd informatie kunnen zien. Deze website is bedoeld voor jongeren en ouderen.
+www.jobgroen.nl is een website van Job Groen waar gebruikers nieuwsinformatie kunnen zien over consoles, games, aankomende games en accessoires. Deze website is bedoeld voor jongeren en ouderen.
 
-De website is enigszins te vergelijken met https://Flashing-Heiloo.nl, maar dit is toch anders omdat deze een moderne uitstraling gaat krijgen in plaats van de oudere website's die geen fullwidth zijn.
+De website is enigszins te vergelijken met https://www.battlefield.com, maar dit is toch anders omdat deze een moderne uitstraling gaat krijgen in plaats van de oudere website's die geen fullwidth zijn.
 
 ### Uniek aan dit concept is: 
  * Moderne stijl 
@@ -14,9 +14,9 @@ De website is enigszins te vergelijken met https://Flashing-Heiloo.nl, maar dit 
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
 | Readme                         | Done  |  [readme.md]            | *MarkDown op github |
-| b1-k1-w1 debriefing            | To Do | [Debriefing]            | Google Doc Comment enabled |
+| b1-k1-w1 debriefing            | Done | [Debriefing]            | Google Doc Comment enabled |
 | b1-k1-w1 bepaling uitgangspunt | To Do | [Leidraad_uitgangspunt.md] | *Markdown |
-| b1-k1-w2 Urenschatting         | To Do | [doc/1/urenschatting.md]| *Markdown |
+| b1-k1-w2 Urenschatting         | Halfway | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | To Do | [doc/1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | Done  | [doc/1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | To Do | [doc/1/moodboard]       | PNG Image op deviantArt |
