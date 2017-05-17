@@ -26,9 +26,9 @@ De website is enigszins te vergelijken met https://www.battlefield.com, maar dit
 
    [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
-   [Debriefing]: <https://docs.google.com/document/u/0/>
+   [Debriefing]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Debriefing.docx>
    [doc/1/PvA.rtf]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Plan%20van%20aanpak.docx>
-   [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
+   [doc/1/urenschatting.md]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Urenschatting.docx>
    [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
    [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
    [FO]: <https://github.com/jouwgithub/doc/1/FO.md>
