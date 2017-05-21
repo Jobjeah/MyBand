@@ -16,13 +16,13 @@ De website is enigszins te vergelijken met https://www.battlefield.com, maar dit
 | Readme                         | Done  |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | Done | [Debriefing]            | Google Doc Comment enabled |
 | b1-k1-w1 bepaling uitgangspunt | To Do | [Leidraad_uitgangspunt.md] | *Markdown |
-| b1-k1-w2 Urenschatting         | Halfway | [doc/1/urenschatting.md]| *Markdown |
+| b1-k1-w2 Urenschatting         | Done | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | To Do | [doc/1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | Done  | [doc/1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | To Do | [doc/1/moodboard]       | PNG Image op deviantArt |
-| b1-k1-w2 Functioneel ontwerp   | To Do | [FO]                    | MarkDown op github |
+| b1-k1-w2 Functioneel ontwerp   | Done | [FO]                    | MarkDown op github |
 | b1-k1-w2 FlowChart             | To Do | [Flow]                  | SVG exported by Draw.io |
-| b1-k1-w2 Prototype             | To Do | [axShare]               | Axshare link |
+| b1-k1-w2 Prototype             | Done | [axShare]               | Axshare link |
 
    [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
@@ -31,7 +31,7 @@ De website is enigszins te vergelijken met https://www.battlefield.com, maar dit
    [doc/1/urenschatting.md]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Urenschatting.docx>
    [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
    [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
-   [FO]: <https://github.com/jouwgithub/doc/1/FO.md>
+   [FO]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Functioneel%20ontwerp.docx>
    [Flow]: <https://github.com/jouwgithub/doc/1/flow.svg>
    [axShare]: <http://w2d1bw.axshare.com/>
 
