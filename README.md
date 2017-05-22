@@ -33,7 +33,7 @@ De website is enigszins te vergelijken met https://www.battlefield.com, maar dit
    [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
    [FO]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Functioneel%20ontwerp.docx>
    [Flow]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Flowchart.svg>
-   [axShare]: <http://w2d1bw.axshare.com/>
+   [axShare]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Wireframes.pdf>
 
 #### Milestones Fase 2
 | Milestone  | Status | Link |
