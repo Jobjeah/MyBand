@@ -30,7 +30,7 @@ De website is enigszins te vergelijken met https://www.battlefield.com, maar dit
    [doc/1/PvA.rtf]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Plan%20van%20aanpak.docx>
    [doc/1/urenschatting.md]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Urenschatting.docx>
    [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
-   [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
+   [doc/1/moodboard]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Moodboard.pdf>
    [FO]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Functioneel%20ontwerp.docx>
    [Flow]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Flowchart.svg>
    [axShare]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Wireframes.pdf>
