@@ -21,7 +21,7 @@ De website is enigszins te vergelijken met https://www.battlefield.com, maar dit
 | b1-k1-w2 Plan van aanpak       | Done  | [doc/1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | To Do | [doc/1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | Done | [FO]                    | MarkDown op github |
-| b1-k1-w2 FlowChart             | To Do | [Flow]                  | SVG exported by Draw.io |
+| b1-k1-w2 FlowChart             | Done | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 Prototype             | Done | [axShare]               | Axshare link |
 
    [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
@@ -32,7 +32,7 @@ De website is enigszins te vergelijken met https://www.battlefield.com, maar dit
    [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
    [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
    [FO]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Functioneel%20ontwerp.docx>
-   [Flow]: <https://github.com/jouwgithub/doc/1/flow.svg>
+   [Flow]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Flowchart.svg>
    [axShare]: <http://w2d1bw.axshare.com/>
 
 #### Milestones Fase 2
