@@ -15,9 +15,9 @@ De website is enigszins te vergelijken met https://www.battlefield.com, maar dit
 | ------ |  ------ | ------ | ------ |
 | Readme                         | Done  |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | Done | [Debriefing]            | Google Doc Comment enabled |
-| b1-k1-w1 bepaling uitgangspunt | To Do | [Leidraad_uitgangspunt.md] | *Markdown |
+| b1-k1-w1 bepaling uitgangspunt | Done | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w2 Urenschatting         | Done | [doc/1/urenschatting.md]| *Markdown |
-| b1-k1-w2 Planning              | To Do | [doc/1/planning.md]     | *Markdown |
+| b1-k1-w2 Planning              | Done | [doc/1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | Done  | [doc/1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | To Do | [doc/1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | Done | [FO]                    | MarkDown op github |
