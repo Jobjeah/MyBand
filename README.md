@@ -31,7 +31,7 @@ De website is enigszins te vergelijken met https://www.battlefield.com, maar dit
    [doc/1/urenschatting.md]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Urenschatting.docx>
    [doc/1/planning.md]: <>
    [doc/1/moodboard]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Moodboard.pdf>
-   [FO]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Functioneel%20ontwerp.docx>
+   [FO]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Functioneel%20Ontwerp.md>
    [Flow]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Flowchart.svg>
    [axShare]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/Wireframes.pdf>
 
