@@ -1,0 +1,26 @@
+#terms {
+    width: 50%;
+    margin-top: 5em;
+    margin-bottom: 2em;
+    padding: 1%;
+}
+
+.terms-1 {
+    background-color: rgba(255,255,255, 0.75);
+    padding: 1%;
+}
+
+.terms-2 {
+    background-color: black;
+    color: white;
+    padding: 1%;
+    width: 100.1%;
+}
+
+.terms-1 p{
+    font-weight: 100;
+}
+
+.terms-1 h3 {
+    font-weight: 400;
+}

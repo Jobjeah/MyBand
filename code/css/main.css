@@ -1,0 +1,215 @@
+* {
+	margin: 0 ;
+	font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+
+}
+
+html {
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	margin: 0 auto;
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+/* Navigatie-menu */
+
+.navigatie-nav {
+	width: 100%;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.20);
+}
+
+nav img {
+	width: 50px;
+	position: absolute;
+	display: flex;
+	top: 2px;
+	left: 250px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0 auto;
+	height: 50px;
+	padding: 0;
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0);
+	width: 75%;
+}
+
+li {
+	float: right;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover:not(.active) {
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+li:active {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* Header-content */
+
+.navigatie-header {
+	height: 0px ;
+	width: 100%;
+}
+
+.header-content {
+	text-align: center;
+	margin-top: 12.5%;
+}
+
+.header-content img {
+	width: 300px;
+}
+
+.subtitle {
+	font-weight: 100;
+	font-size: 1.4em;
+	margin-top: -2%;
+	color: white;
+}
+
+/* Background-video */
+
+.background-wrap {
+	position: absolute;
+	z-index: -1000;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+}
+
+#video-bg-elem {
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-height: 100%;
+	min-width: 100%;
+}
+
+/* Container-home */
+
+#container-home {
+	flex: 1 0 auto;
+}
+
+.container {
+	position: relative;
+	width: 15%;
+	float: left;
+	margin-right: -15%;
+	margin-left: 21%;
+	margin-top: 3%;
+	border: 3px solid white;
+}
+
+.image {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+
+.overlay {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(139, 139, 139, 0.5);
+	overflow: hidden;
+	width: 100%;
+	height: 0;
+	transition: .5s ease;
+}
+
+.container:hover .overlay {
+	height: 100%;
+}
+
+.text {
+	white-space: nowrap;
+	color: white;
+	font-size: 20px;
+	font-weight: 600;
+	position: absolute;
+	overflow: hidden;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+}
+
+/* Footer algemeen*/
+
+footer {
+	width: 100%;
+	color: white;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+footer p {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+
+/* About-content */
+
+.about-left {
+	background-color: rgba(255,255,255, 0.75);
+	width: 50%;
+	height: 800px;
+	margin-top: 5%;
+	margin-left: 1%;
+	float: left;
+}
+
+.about-right-above {
+	background-color: rgba(255,255,255, 0.75);
+	width: 45%;
+	float: left;
+	height: 380px;
+	margin-top: 5%;
+	margin-left: 2%;
+}
+
+.about-right-below {
+	background-color: rgba(255,255,255, 0.75);
+	width: 45%;
+	float: left;
+	height: 380px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+
+.about-left p, h2{
+	padding: 1%;
+}
+
+.about-right-above p{
+	padding: 1%;
+}
+
+.about-right-below p{
+	padding: 1%;
+}
