@@ -54,10 +54,10 @@ De website is enigszins te vergelijken met https://www.battlefield.com, maar dit
 | ------ |  ------ | ------ |
 | B1-K2-W2 GebruikersTestrapport | To Do |  [test] |
 | usertest video | To Do |[usertest_youtube] |
-| B1-K3-W1 Optimalisatieplan | To Do |  [op] |
+| B1-K3-W1 Optimalisatieplan | DONE |  [op] |
 | Statistieken | To Do |  [mystat]|
 
  [usertest_youtube]:
  [test]: 
- [op]: 
+ [op]: <https://github.com/Jobjeah/MyBand/blob/master/doc/1/optimalisatieplan.md>
  [mystat]: 
